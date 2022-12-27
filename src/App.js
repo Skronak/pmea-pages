@@ -2,8 +2,8 @@ import React, {useEffect, useState} from 'react';
 import BoardSuspect from './components/board/BoardSuspect.js';
 import BoardInspector from './components/board/BoardInspector.js';
 import Board from './components/board/Board.js';
+import Tooltip from "./components/tooltip/Tooltip.js";
 import data from './data.json';
-//import './bootstrap.min.css';
 import './app.css';
 import seedrandom from 'seedrandom';
 import detective from "./img/avatar-detective.png";
@@ -100,6 +100,7 @@ export default function App() {
                     <form>
                         <div className={"bloc"}>
                             <div>Clé (Unique à chaque partie)</div>
+                            <Tooltip>clé unique permettant de determiner le coupable</Tooltip>
                             <input type="text" className="form-control" onChange={e => setSeed(e.target.value)} min='0'
                                    value={seed}/>
                         </div>
