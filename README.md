@@ -1,6 +1,8 @@
 This project is the recreation of a board game called petit meurtre entre amis aimed at being played on a browser without the need of a running server.
 The game use a seed to randomize it behaviour that need to be shared among all participants
 
+The game is meant to be played on mobile. UI wasn't tested on a full screen.
+
 The app is hosted on a github io page: https://skronak.github.io/react-mobileApp/
 
 # Start the application
