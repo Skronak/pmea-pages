@@ -10,7 +10,7 @@ The inspector will then proceed to interrogate each player for 2min, each player
 The inspector can interrogate each witness 2 times. 
 At the end of the interrogations, the inspector will have to guess the culprit.
 
-The app is hosted on a github io page: https://skronak.github.io/react-mobileApp/
+The app is hosted on a github io page: (https://skronak.github.io/Boardgame-PMEA-react/)
 
 # Start the application
 ### `npm start`
