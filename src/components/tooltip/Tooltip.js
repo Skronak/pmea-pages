@@ -5,7 +5,7 @@ function Tooltip(props) {
 
     return (
         <div className={'tooltip'}>
-            <span className={'tooltiptext'}>fdf dfdfdf{props.children}</span>
+            <span className={'tooltiptext'}>{props.children}</span>
         </div>
     );
 }
