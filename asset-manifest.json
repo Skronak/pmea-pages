@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pmea-pages/static/css/main.98cf630e.css",
+    "main.js": "/pmea-pages/static/js/main.04f28b4a.js",
+    "static/media/avatar-innocent.png": "/pmea-pages/static/media/avatar-innocent.dafe8b5dbe4d49b4ec5d.png",
+    "static/media/avatar-criminal.png": "/pmea-pages/static/media/avatar-criminal.798e0889f6f43bf74896.png",
+    "static/media/avatar-detective.png": "/pmea-pages/static/media/avatar-detective.f26714751aa74a1351ea.png",
+    "index.html": "/pmea-pages/index.html",
+    "main.98cf630e.css.map": "/pmea-pages/static/css/main.98cf630e.css.map",
+    "main.04f28b4a.js.map": "/pmea-pages/static/js/main.04f28b4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98cf630e.css",
+    "static/js/main.04f28b4a.js"
+  ]
+}
