@@ -1,0 +1,5 @@
+            - name: Build and Deploy React app to GitHub Pages
+  # You may pin to the exact commit or the version.
+  # uses: omkartapale/react-deployment-gh-pages@7ac9094be620590ff7944735a9c9dfe320f5081a
+  uses: omkartapale/react-deployment-gh-pages@v1.0.0
+          
