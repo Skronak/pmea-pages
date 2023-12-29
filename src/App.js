@@ -100,7 +100,7 @@ export default function App() {
                     <form>
                         <div className={"bloc"}>
                             <div>Clé (Unique à chaque partie)</div>
-                            <Tooltip>clé unique permettant de determiner le coupable</Tooltip>
+                            <Tooltip>clé unique permettant de déterminer le coupable</Tooltip>
                             <input type="text" className="form-control" onChange={e => setSeed(e.target.value)} min='0'
                                    value={seed}/>
                         </div>
