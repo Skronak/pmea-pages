@@ -6,7 +6,8 @@ Rules:
 X players launch the game using the same seed.
 1 player choose the inspector roles, the others choose the witness role. Among the witnesses one will be designated by the app as the culprit.
 All the players will now choose a case/date and select it on their app.
-The inspector will then proceed to interrogate each player for 2min, each players will have to add the 3 word visible on the app on their testimony. The culprit will have different word.
+The inspector will then proceed to interrogate each player for 2min, each players will have to add the 3 word visible on the app on their testimony. 
+The culprit will have different word.
 The inspector can interrogate each witness 2 times. 
 At the end of the interrogations, the inspector will have to guess the culprit.
 
