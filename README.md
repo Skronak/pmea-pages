@@ -15,7 +15,7 @@ The app is hosted on a github io page: https://skronak.github.io/pmea-pages
 ### `npm start`
 
 # Deploy the application
-### `gh-pages -d build` || npm run deploy
+### `gh-pages -d build` || `npm run deploy`
 
 
 Runs the app in the development mode.\
