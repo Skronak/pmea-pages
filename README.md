@@ -8,7 +8,7 @@ X players launch the game using the same seed.
 All the players will now choose a case/date and select it on their app.
 The inspector will then proceed to interrogate each player for 2min, each players will have to add the 3 word visible on the app on their testimony. 
 The culprit will have different word.
-The inspector can interrogate each witness 2 times. 
+The inspector can interrogate each witness 2 times.
 At the end of the interrogations, the inspector will have to guess the culprit.
 
 The app is hosted on a github io page: https://skronak.github.io/pmea-pages
