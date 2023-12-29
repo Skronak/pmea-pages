@@ -16,7 +16,8 @@ The app is hosted on a github io page: (https://skronak.github.io/Boardgame-PMEA
 ### `npm start`
 
 # Deploy the application
-### `gh-pages -d build`
+### `gh-pages -d build` || npm run deploy
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
