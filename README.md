@@ -14,7 +14,6 @@ At the end of the interrogations, the inspector will have to guess the culprit.
 The app is hosted on a github io page: https://skronak.github.io/pmea-pages
 # Start the application
 ### `npm start`
-
 # Deploy the application
 ### `gh-pages -d build` || `npm run deploy`
 
